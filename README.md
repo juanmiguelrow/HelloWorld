@@ -1,3 +1,4 @@
+![headshot](archlinux.png)
 # HelloWorld
 This is my first repository!
 
